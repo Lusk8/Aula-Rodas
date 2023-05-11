@@ -1,0 +1,12 @@
+ul{
+    background-color: red;
+    list-style: none; 
+    gap: 25px;  
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
